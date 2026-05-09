@@ -1,0 +1,9 @@
+{
+  "name": "crunchyroll-login-api",
+  "version": "1.0.0",
+  "description": "API for Crunchyroll login with proxy support",
+  "main": "api/crunchyroll-login.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
